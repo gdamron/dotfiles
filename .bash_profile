@@ -88,6 +88,7 @@ alias inomad='ssh inomadmu@inomadmusic.com'
 #cd to where the code is
 alias code='cd ~/Documents/Code'
 alias vim='/Applications/MacVim.app/Contents/MacOS/Vim'
+alias bs='browser-sync start --server --files "*.js, *.html, *.css"'
 
 ##
 # Your previous /Users/grant/.bash_profile file was backed up as /Users/grant/.bash_profile.macports-saved_2014-04-13_at_18:20:43
